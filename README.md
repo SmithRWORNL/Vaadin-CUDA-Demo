@@ -1,1 +1,1 @@
-# Vaadin-CUDA-Demo
+# Vaadin-OpenMP-Demo
