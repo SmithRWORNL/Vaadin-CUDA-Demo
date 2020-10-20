@@ -2,7 +2,7 @@
 .settings/
 node_modules/
 *.class
-package-json
+package.json
 package-lock.json
 webpack.config.js
 webpack.generated.js

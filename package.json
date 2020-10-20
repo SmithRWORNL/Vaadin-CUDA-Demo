@@ -1,0 +1,9 @@
+{
+	"name": "vaadin-openmp-demo",
+	"version": "0.1.0",
+	"main": "main.js",
+	"dependencies": {
+		"minimal-request-promise": "^1.5.0",
+		"tree-kill": "^1.2.2"
+	}
+}
